@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 group-title="澳门" tvg-id="LotusTV.mo@SD",澳门莲花卫视
+https://play-sh.quklive.com/live/1780907795235397.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="GoodTV.tw@SD",台湾 GOOD TV 综合台
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="Good2.tw@SD",台湾 GOOD TV 真理台
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV1.cn@SD",CCTV-1 综合
+https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+#EXTINF:-1 group-title="国际" tvg-id="CGTN.cn@SD",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 group-title="广东" tvg-id="GuangzhouTV.cn@SD",广州综合
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="河北" tvg-id="HebeiTV.cn@SD",河北卫视
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 group-title="浙江" tvg-id="ZhejiangInternationalChannel.cn@SD",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 group-title="浙江",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="甘肃" tvg-id="LanzhouComprehensiveNewsChannel.cn@SD",兰州新闻综合
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+#EXTINF:-1 group-title="江苏" tvg-id="JiangsuPublicNewsChannel.cn@SD",江苏公共新闻
+https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="DaliTV.tw@SD",台湾大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="华语国际" tvg-id="CGNTVChinese.tw@SD",CGNTV 中文
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 group-title="央视海外" tvg-id="CCTV4America.cn@SD",CCTV-4 美洲
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 group-title="央视海外" tvg-id="CCTVPlus1.cn@SD",CCTV+ 国际新闻1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="央视海外" tvg-id="CCTVPlus2.cn@SD",CCTV+ 国际新闻2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="美国华语" tvg-id="ABNChina.us@SD",ABN China
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:-1 group-title="印度华语" tvg-id="AngelTV.in@Chinese",Angel TV 中文台
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:-1 group-title="印尼华语" tvg-id="DAAITV.id@SD",DAAI TV 印尼
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+#EXTINF:-1 group-title="美国华语" tvg-id="GuangdongTVAmerica.us@SD",广东电视美洲台
+https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="HakkaTV.tw@SD",台湾客家电视
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 group-title="美国华语" tvg-id="LLBNTVChinese.us@SD",LLBN 中文台
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
+#EXTINF:-1 group-title="美国华语" tvg-id="NTDTV.us@East",新唐人纽约
+https://ntd02.akamaized.net/HD-NY/index.m3u8
+#EXTINF:-1 group-title="美国华语" tvg-id="NTDTVAsiaPacific.us@SD",新唐人亚太
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="加拿大华语" tvg-id="NTDTVCanada.us@East",新唐人加拿大
+https://live.ntdtv.com/mllive860/playlist.m3u8
+#EXTINF:-1 group-title="美国华语" tvg-id="NTDTVChina.us@SD",新唐人中国频道
+https://live.ntdtv.com/cnlive900/playlist.m3u8
+#EXTINF:-1 group-title="美国华语" tvg-id="NTDTV.us@West",新唐人美西
+https://live.ntdtv.com/uwlive990/playlist.m3u8
+#EXTINF:-1 group-title="国际华语" tvg-id="PeaceTVChinese.ae@SD",Peace TV 中文台
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+#EXTINF:-1 group-title="美国华语" tvg-id="WCETVDigitalChannel318.us@SD",WCETV 31.8
+https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+#EXTINF:-1 group-title="巴基斯坦华语" tvg-id="GodStandsTV.pk@Chinese",God Stands TV 中文台
+https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
+#EXTINF:-1 group-title="香港" tvg-id="RTHKTV31.hk@SD",港台电视31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="TaiwanIndigenousTV.tw@SD",台湾原住民族电视台
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="台湾" tvg-id="WXTV.tw@SD",台湾唯心电视
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
