@@ -1,233 +1,233 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CCTV1.cn@SD" group-title="01 央视与国家频道",CCTV-1 综合
-https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
-
-#EXTINF:-1 tvg-id="CCTV2.cn@SD" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="01 央视与国家频道",CCTV-2
-http://74.91.26.218:82/live/cctv2hd.m3u8
-
-#EXTINF:-1 tvg-id="CCTV3.cn@SD" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="01 央视与国家频道",CCTV-3
-http://74.91.26.218:82/live/cctv3hd.m3u8
-
-#EXTINF:-1 tvg-id="CCTV4America.cn@SD" group-title="01 央视与国家频道",CCTV-4 美洲
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
-#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="01 央视与国家频道",CCTV-6
-http://69.30.245.50/live/cctv6.m3u8
-
-#EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="01 央视与国家频道",CCTV-7
-http://74.91.26.218:82/live/cctv7hd.m3u8
-
-#EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="01 央视与国家频道",CCTV-8
-http://74.91.26.218:82/live/cctv8hd.m3u8
-
-#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="01 央视与国家频道",CCTV-9 (576i)
-https://xykt-fix.github.io/Y77.m3u8
-
-#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="01 央视与国家频道",CCTV-10
-http://74.91.26.218:82/live/cctv10hd.m3u8
-
-#EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="01 央视与国家频道",CCTV-11
-http://74.91.26.218:82/live/cctv11hd.m3u8
-
-#EXTINF:-1 tvg-id="CCTV12.cn@SD" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="01 央视与国家频道",CCTV-12
+#EXTINF:-1 tvg-id="CCTV12.cn@SD" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="A 流畅｜01 央视与国家频道",CCTV-12
 http://74.91.26.218:82/live/cctv12hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="01 央视与国家频道",CCTV-14
-http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="A 流畅｜01 央视与国家频道",CCTV-7
+http://74.91.26.218:82/live/cctv7hd.m3u8
 
-#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="01 央视与国家频道",CCTV-15
-https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="A 流畅｜01 央视与国家频道",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
 
-#EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="01 央视与国家频道",CCTV-17
-http://74.91.26.218:82/live/cctv17hd.m3u8
-
-#EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" group-title="01 央视与国家频道",CCTV+ 国际新闻1
+#EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" group-title="A 流畅｜01 央视与国家频道",CCTV+ 国际新闻1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" group-title="01 央视与国家频道",CCTV+ 国际新闻2
+#EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" group-title="A 流畅｜01 央视与国家频道",CCTV+ 国际新闻2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="01 央视与国家频道",CGTN
+#EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="A 流畅｜01 央视与国家频道",CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
-#EXTINF:-1 tvg-id="GuizhouTV.cn@SD" tvg-logo="https://i.imgur.com/nkcKCdr.png" group-title="02 中国卫视",贵州卫视
+#EXTINF:-1 tvg-id="GuizhouTV.cn@SD" tvg-logo="https://i.imgur.com/nkcKCdr.png" group-title="A 流畅｜02 中国卫视",贵州卫视
 http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 
-#EXTINF:-1 tvg-id="HebeiTV.cn@SD" group-title="02 中国卫视",河北卫视
+#EXTINF:-1 tvg-id="HebeiTV.cn@SD" group-title="A 流畅｜02 中国卫视",河北卫视
 https://event.pull.hebtv.com/live/live101.m3u8
 
-#EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="02 中国卫视",Hunan TV
+#EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="A 流畅｜02 中国卫视",Hunan TV
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
-#EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="03 中国地方频道",白城新闻综合 [Geo-blocked]
+#EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="A 流畅｜03 中国地方频道",白城新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 
-#EXTINF:-1 tvg-id="FengshangShoppingChannel.cn@SD" tvg-logo="https://i.imgur.com/WNhfnUR.png" group-title="03 中国地方频道",风尚购物
+#EXTINF:-1 tvg-id="FengshangShoppingChannel.cn@SD" tvg-logo="https://i.imgur.com/WNhfnUR.png" group-title="A 流畅｜03 中国地方频道",风尚购物
 http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 
-#EXTINF:-1 tvg-id="GuangzhouTV.cn@SD" group-title="03 中国地方频道",广州综合
+#EXTINF:-1 tvg-id="GuangzhouTV.cn@SD" group-title="A 流畅｜03 中国地方频道",广州综合
 https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 
-#EXTINF:-1 tvg-id="JiangsuCityChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg" group-title="03 中国地方频道",江苏城市
+#EXTINF:-1 tvg-id="JiangsuCityChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg" group-title="A 流畅｜03 中国地方频道",江苏城市
 http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS
 
-#EXTINF:-1 tvg-id="JiangsuPublicNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jsgg.jpg" group-title="03 中国地方频道",江苏公共
+#EXTINF:-1 tvg-id="JiangsuPublicNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jsgg.jpg" group-title="A 流畅｜03 中国地方频道",江苏公共
 http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 
-#EXTINF:-1 tvg-id="JiangsuSportsLeisureChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jsty.jpg" group-title="03 中国地方频道",江苏体育
+#EXTINF:-1 tvg-id="JiangsuSportsLeisureChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jsty.jpg" group-title="A 流畅｜03 中国地方频道",江苏体育
 http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 
-#EXTINF:-1 tvg-id="JiangsuVarietyChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jszy.jpg" group-title="03 中国地方频道",江苏综艺 (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="JiangsuVarietyChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jszy.jpg" group-title="A 流畅｜03 中国地方频道",江苏综艺 (576p) [Not 24/7]
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 
-#EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" group-title="03 中国地方频道",兰州新闻综合
+#EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" group-title="A 流畅｜03 中国地方频道",兰州新闻综合
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 
-#EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn@SD" group-title="03 中国地方频道",浙江国际
+#EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn@SD" group-title="A 流畅｜03 中国地方频道",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 
-#EXTINF:-1 group-title="03 中国地方频道",之江纪录
+#EXTINF:-1 group-title="A 流畅｜03 中国地方频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
-#EXTINF:-1 tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="03 中国地方频道",Bread TV面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
-#EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="03 中国地方频道",Chifeng Comprehensive News Chanel
+#EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="A 流畅｜03 中国地方频道",Chifeng Comprehensive News Chanel
 http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 
-#EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="03 中国地方频道",Harbin Comprehensive News Channel
+#EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="A 流畅｜03 中国地方频道",Harbin Comprehensive News Channel
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 
-#EXTINF:-1 tvg-id="HarbinMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="03 中国地方频道",Harbin Movie Channel
+#EXTINF:-1 tvg-id="HarbinMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="A 流畅｜03 中国地方频道",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" group-title="03 中国地方频道",Lanzhou Culture & Tourism Channel
+#EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" group-title="A 流畅｜03 中国地方频道",Lanzhou Culture & Tourism Channel
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 
-#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="03 中国地方频道",Nei Monggol TV (1080i) [Not 24/7]
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="A 流畅｜03 中国地方频道",Nei Monggol TV (1080i) [Not 24/7]
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 
-#EXTINF:-1 tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" group-title="03 中国地方频道",QTV-1
+#EXTINF:-1 tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" group-title="A 流畅｜03 中国地方频道",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 
-#EXTINF:-1 tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="03 中国地方频道",QTV-2
+#EXTINF:-1 tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="A 流畅｜03 中国地方频道",QTV-2
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 
-#EXTINF:-1 tvg-id="QTV3.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="03 中国地方频道",QTV-3
+#EXTINF:-1 tvg-id="QTV3.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="A 流畅｜03 中国地方频道",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 
-#EXTINF:-1 tvg-id="QTV4.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" group-title="03 中国地方频道",QTV-4
+#EXTINF:-1 tvg-id="QTV4.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" group-title="A 流畅｜03 中国地方频道",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 
-#EXTINF:-1 tvg-id="QTV5.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="03 中国地方频道",QTV-5
+#EXTINF:-1 tvg-id="QTV5.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="A 流畅｜03 中国地方频道",QTV-5
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 
-#EXTINF:-1 tvg-id="QTV6.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="03 中国地方频道",QTV-6
+#EXTINF:-1 tvg-id="QTV6.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="A 流畅｜03 中国地方频道",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 
-#EXTINF:-1 tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="03 中国地方频道",Siping TV
+#EXTINF:-1 tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="A 流畅｜03 中国地方频道",Siping TV
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 
-#EXTINF:-1 tvg-id="TonghuaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" group-title="03 中国地方频道",Tonghua TV
+#EXTINF:-1 tvg-id="TonghuaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" group-title="A 流畅｜03 中国地方频道",Tonghua TV
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 
-#EXTINF:-1 group-title="04 香港",TVB 翡翠台
+#EXTINF:-1 group-title="A 流畅｜04 香港",TVB 翡翠台
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 
-#EXTINF:-1 group-title="04 香港",香港有线财经信息台
-https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
-
-#EXTINF:-1 group-title="04 香港",香港有线新闻台
-http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-
-#EXTINF:-1 group-title="04 香港",HOY TV 77台
-http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PetClubTV.hk@SD" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="04 香港",Pet Club TV
-https://petclub-samsungaus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="04 香港",TVB 明珠台
+#EXTINF:-1 group-title="A 流畅｜04 香港",TVB 明珠台
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 
-#EXTINF:-1 group-title="04 香港",TVB 无线新闻台
+#EXTINF:-1 group-title="A 流畅｜04 香港",TVB 无线新闻台
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 
-#EXTINF:-1 tvg-id="LotusTV.mo@SD" group-title="05 澳门",澳门莲花卫视
+#EXTINF:-1 tvg-id="LotusTV.mo@SD" group-title="A 流畅｜05 澳门",澳门莲花卫视
 https://play-sh.quklive.com/live/1780907795235397.m3u8
 
-#EXTINF:-1 tvg-id="Good2.tw@SD" group-title="06 台湾",台湾 GOOD TV 真理台
-https://live.streamingfast.net/osmflivech2.m3u8
-
-#EXTINF:-1 tvg-id="GoodTV.tw@SD" group-title="06 台湾",台湾 GOOD TV 综合台
-https://live.streamingfast.net/osmflivech1.m3u8
-
-#EXTINF:-1 tvg-id="DaliTV.tw@SD" group-title="06 台湾",台湾大立电视台
+#EXTINF:-1 tvg-id="DaliTV.tw@SD" group-title="A 流畅｜06 台湾",台湾大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
-#EXTINF:-1 tvg-id="HakkaTV.tw@SD" group-title="06 台湾",台湾客家电视
-https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
-
-#EXTINF:-1 tvg-id="WXTV.tw@SD" group-title="06 台湾",台湾唯心电视
-https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-
-#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" group-title="06 台湾",台湾原住民族电视台
-https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-
-#EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="06 台湾",Beautiful Life TV
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="A 流畅｜06 台湾",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" group-title="06 台湾",CGNTV 中文
-https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-
-#EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="06 台湾",Supreme Master TV
-https://lbs-us1.suprememastertv.com/720p.m3u8
-
-#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="06 台湾",TVBS Asia
+#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="A 流畅｜06 台湾",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GuangdongTVAmerica.us@SD" group-title="07 海外华语",广东电视美洲台
-https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
-
-#EXTINF:-1 tvg-id="NTDTVCanada.us@East" group-title="07 海外华语",新唐人加拿大
-https://live.ntdtv.com/mllive860/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NTDTV.us@West" group-title="07 海外华语",新唐人美西
+#EXTINF:-1 tvg-id="NTDTV.us@West" group-title="A 流畅｜07 海外华语",新唐人美西
 https://live.ntdtv.com/uwlive990/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTDTVAsiaPacific.us@SD" group-title="07 海外华语",新唐人亚太
+#EXTINF:-1 tvg-id="NTDTVAsiaPacific.us@SD" group-title="A 流畅｜07 海外华语",新唐人亚太
 https://live.ntdtv.com/aplive200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTDTVChina.us@SD" group-title="07 海外华语",新唐人中国频道
+#EXTINF:-1 tvg-id="CCTV1.cn@SD" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-1 综合
+https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-10
+http://74.91.26.218:82/live/cctv10hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-15
+https://xykt-fix.github.io/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-17
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV2.cn@SD" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-2
+http://74.91.26.218:82/live/cctv2hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV3.cn@SD" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-4 美洲
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="B 可能卡顿｜01 央视与国家频道",CCTV-8
+http://74.91.26.218:82/live/cctv8hd.m3u8
+
+#EXTINF:-1 tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="B 可能卡顿｜03 中国地方频道",Bread TV面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+#EXTINF:-1 group-title="B 可能卡顿｜04 香港",香港有线财经信息台
+https://epg.pw/stream/0fddc0600d3868b05ad741d46294410aebca0fdc4fada5028dc54e624b7b17ca.m3u8
+
+#EXTINF:-1 group-title="B 可能卡顿｜04 香港",香港有线新闻台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+
+#EXTINF:-1 group-title="B 可能卡顿｜04 香港",HOY TV 77台
+http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PetClubTV.hk@SD" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="B 可能卡顿｜04 香港",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Good2.tw@SD" group-title="B 可能卡顿｜06 台湾",台湾 GOOD TV 真理台
+https://live.streamingfast.net/osmflivech2.m3u8
+
+#EXTINF:-1 tvg-id="GoodTV.tw@SD" group-title="B 可能卡顿｜06 台湾",台湾 GOOD TV 综合台
+https://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 tvg-id="HakkaTV.tw@SD" group-title="B 可能卡顿｜06 台湾",台湾客家电视
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+
+#EXTINF:-1 tvg-id="WXTV.tw@SD" group-title="B 可能卡顿｜06 台湾",台湾唯心电视
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" group-title="B 可能卡顿｜06 台湾",台湾原住民族电视台
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+
+#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" group-title="B 可能卡顿｜06 台湾",CGNTV 中文
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="B 可能卡顿｜06 台湾",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+
+#EXTINF:-1 tvg-id="GuangdongTVAmerica.us@SD" group-title="B 可能卡顿｜07 海外华语",广东电视美洲台
+https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVCanada.us@East" group-title="B 可能卡顿｜07 海外华语",新唐人加拿大
+https://live.ntdtv.com/mllive860/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVChina.us@SD" group-title="B 可能卡顿｜07 海外华语",新唐人中国频道
 https://live.ntdtv.com/cnlive900/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABNChina.us@SD" group-title="07 海外华语",ABN China
+#EXTINF:-1 tvg-id="ABNChina.us@SD" group-title="B 可能卡顿｜07 海外华语",ABN China
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 
-#EXTINF:-1 tvg-id="HomePlus.ir@SD" group-title="07 海外华语",Home Plus
+#EXTINF:-1 tvg-id="HomePlus.ir@SD" group-title="B 可能卡顿｜07 海外华语",Home Plus
 https://homeplushls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVBRICSChinese.cn@SD" tvg-logo="https://i.imgur.com/896132Z.png" group-title="07 海外华语",TV BRICS Chinese
+#EXTINF:-1 tvg-id="TVBRICSChinese.cn@SD" tvg-logo="https://i.imgur.com/896132Z.png" group-title="B 可能卡顿｜07 海外华语",TV BRICS Chinese
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VoATVChina.cn@SD" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="07 海外华语",VOA美国之音
+#EXTINF:-1 tvg-id="VoATVChina.cn@SD" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="B 可能卡顿｜07 海外华语",VOA美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WCETVDigitalChannel318.us@SD" group-title="07 海外华语",WCETV 31.8
+#EXTINF:-1 tvg-id="WCETVDigitalChannel318.us@SD" group-title="B 可能卡顿｜07 海外华语",WCETV 31.8
 https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 
-#EXTINF:-1 tvg-id="AngelTV.in@Chinese" group-title="08 公益与宗教",Angel TV 中文台
+#EXTINF:-1 tvg-id="AngelTV.in@Chinese" group-title="B 可能卡顿｜08 公益与宗教",Angel TV 中文台
 https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DAAITV.id@SD" group-title="08 公益与宗教",DAAI TV 印尼
+#EXTINF:-1 tvg-id="DAAITV.id@SD" group-title="B 可能卡顿｜08 公益与宗教",DAAI TV 印尼
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
-#EXTINF:-1 tvg-id="GodStandsTV.pk@Chinese" group-title="08 公益与宗教",God Stands TV 中文台
+#EXTINF:-1 tvg-id="GodStandsTV.pk@Chinese" group-title="B 可能卡顿｜08 公益与宗教",God Stands TV 中文台
 https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
 
-#EXTINF:-1 tvg-id="LLBNTVChinese.us@SD" group-title="08 公益与宗教",LLBN 中文台
+#EXTINF:-1 tvg-id="LLBNTVChinese.us@SD" group-title="B 可能卡顿｜08 公益与宗教",LLBN 中文台
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 
-#EXTINF:-1 tvg-id="PeaceTVChinese.ae@SD" group-title="08 公益与宗教",Peace TV 中文台
+#EXTINF:-1 tvg-id="PeaceTVChinese.ae@SD" group-title="B 可能卡顿｜08 公益与宗教",Peace TV 中文台
 https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 
